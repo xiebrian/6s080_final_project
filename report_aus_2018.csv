@@ -1,0 +1,54 @@
+Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,1,2018-01-01,2018-01-07,445,475,,14,13,0,11,38,0,0,9,9,47,647,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,2,2018-01-08,2018-01-14,442,459,,6,6,0,7,19,0,0,11,11,30,592,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,3,2018-01-15,2018-01-21,383,400,,5,12,0,7,24,0,0,12,12,36,533,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,4,2018-01-22,2018-01-28,366,393,,8,10,0,16,34,0,0,22,22,56,488,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,5,2018-01-29,2018-02-04,402,437,,4,20,0,12,36,0,0,17,17,53,558,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,6,2018-02-05,2018-02-11,345,362,,4,12,0,10,26,0,0,10,10,36,509,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,7,2018-02-12,2018-02-18,372,409,,13,26,0,16,55,0,0,18,18,73,516,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,8,2018-02-19,2018-02-25,355,384,,4,18,0,15,37,0,0,16,16,53,518,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,9,2018-02-26,2018-03-04,380,405,,5,13,0,5,23,0,0,14,14,37,541,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,10,2018-03-05,2018-03-11,388,405,,4,14,0,9,27,0,0,5,5,32,557,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,11,2018-03-12,2018-03-18,352,367,,7,8,0,1,16,0,0,6,6,22,534,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,12,2018-03-19,2018-03-25,355,572,,8,8,0,2,18,0,0,10,10,28,544,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,13,2018-03-26,2018-04-01,338,529,,11,8,0,3,22,0,0,3,3,25,506,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,14,2018-04-02,2018-04-08,464,651,,8,6,0,9,23,0,0,7,7,30,623,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,15,2018-04-09,2018-04-15,474,692,,5,6,0,3,14,0,0,0,0,14,682,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,16,2018-04-16,2018-04-22,484,725,,7,3,0,10,20,0,0,3,3,23,705,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,17,2018-04-23,2018-04-29,440,687,,8,5,0,3,16,0,0,2,2,18,672,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,18,2018-04-30,2018-05-06,543,780,,10,5,0,11,26,0,0,5,5,31,756,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,19,2018-05-07,2018-05-13,605,847,,6,12,0,10,28,0,0,4,4,32,815,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,20,2018-05-14,2018-05-20,686,966,,6,6,0,17,29,0,0,4,4,33,935,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,21,2018-05-21,2018-05-27,732,1004,,5,1,0,12,18,0,0,6,6,24,984,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,22,2018-05-28,2018-06-03,707,969,,11,2,0,7,20,0,0,4,4,24,946,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,23,2018-06-04,2018-06-10,854,1119,,12,8,0,5,25,0,0,0,0,25,1094,Sporadic
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,24,2018-06-11,2018-06-17,836,1129,,27,3,0,7,37,0,0,7,7,44,1086,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,25,2018-06-18,2018-06-24,936,1229,,24,2,0,13,39,0,0,2,2,41,1193,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,26,2018-06-25,2018-07-01,867,1235,,41,6,0,23,70,0,0,2,2,72,1165,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,27,2018-07-02,2018-07-08,952,1311,,48,9,0,7,64,0,0,3,3,67,1244,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,28,2018-07-09,2018-07-15,1095,1523,,66,7,0,16,89,0,0,7,7,96,1427,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,29,2018-07-16,2018-07-22,1123,1495,,44,5,0,21,70,0,0,3,3,73,1422,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,30,2018-07-23,2018-07-29,1108,1496,,44,5,0,31,80,0,0,8,8,88,1408,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,31,2018-07-30,2018-08-05,1027,1470,,44,4,0,23,71,0,0,0,0,71,1399,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,32,2018-08-06,2018-08-12,1022,1460,,68,8,0,38,114,0,0,5,5,119,1341,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,33,2018-08-13,2018-08-19,1107,1630,,92,7,0,46,145,0,0,9,9,154,1476,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,34,2018-08-20,2018-08-26,1139,1657,,93,15,0,78,186,0,0,14,14,200,1457,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,35,2018-08-27,2018-09-02,1128,1650,,112,14,0,75,201,0,0,9,9,210,1442,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,36,2018-09-03,2018-09-09,1353,1893,,100,23,0,32,155,0,0,19,19,174,1719,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,37,2018-09-10,2018-09-16,1120,1664,,107,26,0,105,238,0,0,14,14,252,1412,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,38,2018-09-17,2018-09-23,1146,1709,,144,25,0,63,232,0,0,8,8,240,1469,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,39,2018-09-24,2018-09-30,1031,1502,,81,29,0,48,158,0,0,12,12,170,1332,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,40,2018-10-01,2018-10-07,1057,1543,,61,55,0,60,176,0,0,7,7,183,1360,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,41,2018-10-08,2018-10-14,940,1352,,46,29,0,30,105,0,0,13,13,118,1233,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,42,2018-10-15,2018-10-21,796,1159,,26,18,0,30,74,0,0,9,9,83,1075,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,43,2018-10-22,2018-10-28,709,1000,,21,24,0,11,56,0,0,3,3,59,941,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,44,2018-10-29,2018-11-04,696,979,,21,7,0,11,39,0,0,4,4,43,935,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,45,2018-11-05,2018-11-11,708,1013,,25,8,0,14,47,0,0,6,6,53,960,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,46,2018-11-12,2018-11-18,709,1013,,39,13,0,11,63,0,0,7,7,70,943,Local Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,47,2018-11-19,2018-11-25,716,1046,,78,5,0,22,105,0,0,8,8,113,933,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,48,2018-11-26,2018-12-02,779,1101,,73,14,0,23,110,0,0,7,7,117,984,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,49,2018-12-03,2018-12-09,642,1032,,136,28,0,22,186,0,0,3,3,189,237,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,50,2018-12-10,2018-12-16,629,986,,91,23,0,10,124,0,0,5,5,129,856,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,51,2018-12-17,2018-12-23,610,973,,92,28,0,18,138,0,0,7,7,145,828,Regional Outbreak
+Australia,Western Pacific Region of WHO,Oceania Melanesia Polynesia,2018,52,2018-12-24,2018-12-30,533,773,,43,33,0,27,103,0,0,6,6,109,663,Regional Outbreak
+
