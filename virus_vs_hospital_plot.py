@@ -27,19 +27,21 @@ x = [i for i in range(len(merged))]
 fig, ax1 = plt.subplots()
 color = 'tab:green'
 ax1.set_xlabel("Week Number since {}".format(start_year))
-ax1.set_ylabel('VirusCount_AUS', color=color)
+ax1.set_ylabel('VirusCount', color=color)
 # ax1.plot(merged['VirusCount_AUS'].tolist(), color=color)
 # ax1.set(xlim=(0, 260), ylim=(0, 1500))
 ax1.plot(merged['VirusCount_USA'].tolist(), color='tab:blue')
-ax1.set(xlim=(0, 260), ylim=(0, 30000))
+ax1.set(xlim=(0, 260))
 ax1.tick_params(axis='y', labelcolor=color)
+plt.yscale('log')
 
 ax2 = ax1.twinx()
 color = 'tab:red'
 ax2.set_ylabel('Total ILI', color=color)
 ax2.plot(merged['Total ILI'].tolist(), color=color)
 ax2.tick_params(axis='y', labelcolor=color)
-ax2.set(xlim=(0, 260), ylim=(0, 100000))
+ax2.set(xlim=(0, 260))
 
+plt.yscale('log')
 fig.tight_layout()
 plt.show()
