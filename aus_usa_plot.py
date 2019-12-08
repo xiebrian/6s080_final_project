@@ -13,8 +13,6 @@ usa_df = usa_df[['Year', 'Week', 'ALL_INF']]
 aus_df.rename(columns={'ALL_INF': 'Count'}, inplace=True)
 usa_df.rename(columns={'ALL_INF': 'Count'}, inplace=True)
 
-# Create a column of the log of the count?
-
 # Join based on Year and Week
 merged = pd.merge(left=aus_df, right=usa_df, on=['Year', 'Week'],
                   suffixes=['_aus', '_usa'])
