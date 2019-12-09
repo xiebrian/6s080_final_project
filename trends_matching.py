@@ -5,9 +5,9 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
-trends = pd.read_csv('flu_google_trends.csv')
+trends = pd.read_csv('./data/flu_google_trends.csv')
 trends['Month'] = trends.Month.str.replace('-0', '-')
-counts = pd.read_csv('FluViewPhase5Data/Weekly_Data_Counts_updated.csv')
+counts = pd.read_csv('./data/FluViewPhase5Data/Weekly_Data_Counts_updated.csv')
 counts['total'] = counts['INFLUENZA A']+counts['INFLUENZA B']+counts['INFLUENZA A AND B']+counts['UNKNOWN']
 counts = counts[['WEEK_NUMBER', 'total']]
 merged = trends.merge(counts, left_on = "Month", right_on = "WEEK_NUMBER").drop('WEEK_NUMBER', axis= 1)

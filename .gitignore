@@ -1,3 +1,2 @@
-.idea/
-twitter-data
-.ipynb_checkpoints/
+.*
+twitter-data/
