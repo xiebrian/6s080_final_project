@@ -1,1 +1,21 @@
 # 6.S080 Final Project
+## Repository organization
+- **bash-scripts/**
+  - *get-twitter-script.sh* is a script for downloading, un-tarring, and writing out the first five Twitter archive files of January 2019. This file is modified for each month that is downloaded from archive.org (~50 GB/month).
+  - *move-twitter-script.sh* is a script that moves all data written out by *ec2-script.py* from the ec2 instance storage to local storage.
+- **data/**
+  - Contains all CSVs: hospitalizations, flu virus counts, tweet counts, etc.
+- **models/**
+  - Contains 3 Jupyter notebooks with implementations of the SARIMA, SARIMAX, and Exponential Smoothing models.
+- **old-twitter-attempts/**
+  - Contains all previous use of Python clients (and old tweet data) before downloading Twitter data from the Spritzer archives.
+- **sarima-script.py** and **sarimax-script.py**
+  - Hyperparameter tuning for *order* and *seasonal_order* values for SARIMA and SARIMAX models
+- **data-filler.ipynb**
+  - Interpolates Twitter data for days that are not available in the archives.
+- **flu-to-features.ipynb**
+  - Takes in daily flu-related tweet data and formats it to be fed into models as a week-based feature.
+- **ec2-data.py**
+  - Un-tars all downloaded archive files and writes out relevant columns.
+- **other scripts**
+  - Creates visualizations for potential features.
