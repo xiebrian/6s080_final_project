@@ -32,8 +32,8 @@ plt.show()
 # 2. Plot the data together, offsetting AUS forward by 26 weeks
 x_aus = [i for i in range(week_offset, len(merged) + week_offset)]
 x_usa = [i for i in range(len(merged))]
-plt.plot(x_aus, merged['Count_aus'].tolist())
-plt.plot(x_usa, merged['Count_usa'].tolist())
+plt.plot(x_aus, merged['Count_aus'].tolist(), color='tab:orange')
+plt.plot(x_usa, merged['Count_usa'].tolist(), color='tab:blue')
 plt.yscale('log')
 plt.ylabel("Number of Flu Viruses")
 plt.xlabel("Weeks since {} (AUS offset forwards {} weeks)".format(start_year, week_offset))
